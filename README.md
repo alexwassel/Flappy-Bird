@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-Side-scroller game where user controls a bird that attempts to fly between green pipes without hitting them.
+Side-scroller game where user controls a bird that attempts to fly between green pipes without hitting them.\\
 Features: Score, Timer
 
 ### Instructions:
